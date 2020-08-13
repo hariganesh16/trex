@@ -1,1 +1,2 @@
-# trex
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
